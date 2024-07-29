@@ -14,5 +14,6 @@ Devices:
 ## 📫 How to reach me:
 You can reach me quickly via [Telegram](https://t.me/ngdplnk).
 I'm also posting things on:
-- [My cool Website OMG](https://sites.google.com/view/nicoshub/)
+- [My Website](https://sites.google.com/view/nicoshub/)
+- [XDA](https://xdaforums.com/m/ngdpl-nk.12569749/)
 - [Twitter](https://www.x.com/nicolas_md5)
