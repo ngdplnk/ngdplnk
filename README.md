@@ -4,12 +4,13 @@ About me:
 - 📆 19yo
 - ♂️ he/him
 - 💍 Married
-- 💻 Computer Science Student from Chile 🇨🇱.
+- 💻 Computer Science Student from Chile 🇨🇱
+- 🎧 Music enjoyer
 
 Devices:
-- Main: Samsung Galaxy A73 5G (a73xq - Snapdragon 778G - 6/128) 📱
-- Secondary: Samsung Galaxy J7 Pro (j7y17lte - Exynos 7870 - 3/32) 📱
-- PC: Acer Aspire A114-32 (Intel Pentium Silver N5000 - 4/128) 💻 (please buy me a new pc 😿)
+- Main: Samsung Galaxy A73 5G (a73xq - Snapdragon 778G - 6GB/128GB) 📱
+- Secondary: Samsung Galaxy J7 Pro (j7y17lte - Exynos 7870 - 3GB/32GB) 📱
+- PC: Acer Aspire A114-32 (Intel Pentium Silver N5000 - 4GB/120GB) 💻 (please buy me a new pc 😿)
 
 ## 📫 How to reach me:
 You can reach me quickly via [Telegram](https://t.me/ngdplnk).
