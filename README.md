@@ -8,7 +8,7 @@
 
 - 💻 Computer Science Student from Chile 🇨🇱
 
-<p> <img src="https://komarev.com/ghpvc/?username=ngdplnk&label=Profile%20views&color=ff0000&style=flat-square" alt="ngdplnk" /></p>
+![Profile Views](https://komarev.com/ghpvc/?username=ngdplnk&color=7eff8d&style=flat)
 
 ![GH Stats](https://github-readme-stats.vercel.app/api?username=ngdplnk&show_icons=true&theme=dark&hide_border=true)
 
