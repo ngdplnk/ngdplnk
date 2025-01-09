@@ -10,7 +10,10 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=ngdplnk&label=Profile%20views&color=ff0000&style=flat-square" alt="ngdplnk" /></p>
 
-<p align="left"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ngdplnk&show_icons=true&theme=dark&hide_border=true¾" /> </p>
+![GH Stats](https://github-readme-stats.vercel.app/api?username=ngdplnk&show_icons=true&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngdplnk&show_icons=true&theme=dark&hide_border=true&layout=compact)
+
 
 ### My Devices:
 
