@@ -5,6 +5,15 @@ About me:
 - ♂️ he/him
 - 💻 Computer Science Student from Chile 🇨🇱
 
+<p align="left">
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ngdplnk&show_icons=true&theme=dark&hide_border=true¾" />
+
+<p> <img src="https://komarev.com/ghpvc/?username=ngdplnk&label=Profile%20views&color=ff0000&style=flat-square" alt="ngdplnk" /></p>
+</p>
+
+Top Project
+[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=ngdplnk&hide_border=true&theme=apprentice&repo=SSTools4MC)](https://github.com/ngdplnk/SSTools4MC)
+
 Devices:
 - 📱 Main: Samsung Galaxy A73 5G (a73xq - Snapdragon 778G - 6GB/128GB)
 - Secondary:
@@ -16,3 +25,6 @@ Devices:
 ## 📫 How to reach me:
 You can reach me quickly via [Telegram](https://t.me/ngdplnk).
 I'm also posting things on [XDA](https://xdaforums.com/m/ngdpl-nk.12569749/)
+
+
+
