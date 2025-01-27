@@ -2,7 +2,7 @@
 
 ### About me:
 
-- 📆 19yo
+- 📆 20yo
 
 - ♂️ he/him
 
@@ -27,7 +27,7 @@
   
 - 💻 **Laptop:** [Aspire A114-32 V1.14I2](https://browser.geekbench.com/v5/cpu/2673310) (Intel Pentium Silver N5000 - 4GB[DDR4]/120GB[eMMC] - Running Debian GNU/Linux 12 (bookworm) (Kernel 6.1.0-28-amd64))
 
-- 🗂️ **Server:** MS-7636 1.0 - Intel i5 760 - GeForce 210 - 22GB[DDR3]/240GB[SSD]+1TB[HDD] - Running Debian GNU/Linux 11 (bullseye) (Kernel I don't remember lol)
+- 🗂️ **Server:** MS-7636 1.0 - Intel i7 870 - GeForce 750 - 22GB[DDR3]/240GB[SSD]+1TB[HDD] - Running Debian GNU/Linux 11 (bullseye) (Kernel 5.10.0-33-amd64)
 
 ### 📫 How to reach me:
 You can reach me quickly via [Telegram](https://t.me/ngdplnk).
