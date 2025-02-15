@@ -17,7 +17,7 @@
 
 ### My Devices:
 
-- 📱 **Main:** Samsung Galaxy A73 5G ([a73xq](https://www.gsmarena.com/samsung_galaxy_a73_5g-11257.php) - Snapdragon 778G - 6GB/128GB - Running [LineageOS for microG](https://lineage.microg.org/) (Android 15))
+- 📱 **Main:** Samsung Galaxy A73 5G ([a73xq](https://www.gsmarena.com/samsung_galaxy_a73_5g-11257.php) - Snapdragon 778G - 6GB/128GB - Running [UN1CA 2.5.4](https://github.com/salvogiangri/UN1CA) (Android 14))
 
 - **Secondary:**
 
