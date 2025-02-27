@@ -17,7 +17,7 @@
 
 ### My Devices:
 
-- 📱 **Main:** Samsung Galaxy A73 5G ([a73xq](https://www.gsmarena.com/samsung_galaxy_a73_5g-11257.php) - Snapdragon 778G - 6GB/128GB - Running [UN1CA 2.5.4](https://github.com/salvogiangri/UN1CA) (Android 14))
+- 📱 **Main:** Samsung Galaxy A73 5G ([a73xq](https://www.gsmarena.com/samsung_galaxy_a73_5g-11257.php) - Snapdragon 778G - 6GB/128GB - Running [UN1CA 2.5.5](https://github.com/salvogiangri/UN1CA) (Android 14))
 
 - **Secondary:**
 
@@ -25,7 +25,7 @@
   
   * 📱 Samsung Galaxy A20 [Dead Screen] ([a20](https://www.gsmarena.com/samsung_galaxy_a20-9640.php) - Exynos 7884 - 3GB/32GB - Running Stock OneUI 3 (Android 11))
   
-- 💻 **Laptop:** [Aspire A114-32 V1.14I2](https://browser.geekbench.com/v5/cpu/2673310) (Intel Pentium Silver N5000 - 4GB[DDR4]/120GB[eMMC] - Running Debian GNU/Linux 12 (bookworm) (Kernel 6.1.0-31-amd64) (GNOME Desktop))
+- 💻 **Laptop:** [Aspire A114-32 V1.14I2](https://browser.geekbench.com/v5/cpu/2673310) (Intel Pentium Silver N5000 - 4GB[DDR4]/120GB[eMMC] - Running Arch Linux x86_64 (Kernel 6.13.4-arch1-1) (GNOME 47.4 Wayland))
 
 - 🗂️ **Server:** MS-7636 1.0 - Intel i7 870 - GeForce 750 - 22GB[DDR3]/240GB[SSD]+1TB[HDD] - Running Debian GNU/Linux 11 (bullseye) (Kernel 5.10.0-33-amd64) (nogui)
 
