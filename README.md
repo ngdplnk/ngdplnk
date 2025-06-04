@@ -17,9 +17,11 @@
 
 ### My Devices:
 
-- 📱 **Main:** Samsung Galaxy A73 5G ([a73xq](https://www.gsmarena.com/samsung_galaxy_a73_5g-11257.php) - Snapdragon 778G - 6GB/128GB - Running Private [Project NERV Paradigm](https://github.com/Yagzie/ProjectNERV) (Based on S25) Test Build (Android 15))
+- 📱 **Main:** Xiaomi 14T ([degas](https://www.gsmarena.com/xiaomi_14t-13329.php) - MediaTek Dimensity 8300 Ultra - 12GB/512GB - Running Stock Xiaomi HyperOS 2.0.102.0 (Android 15))
 
 - **Secondary:**
+
+  * 📱 Samsung Galaxy A73 5G ([a73xq](https://www.gsmarena.com/samsung_galaxy_a73_5g-11257.php) - Snapdragon 778G - 6GB/128GB - Running Private [Project NERV Paradigm](https://github.com/Yagzie/ProjectNERV) (Based on S25) Test Build (Android 15))
 
   * 📱 Samsung Galaxy J7 Pro [Dead Screen] ([j7y17lte](https://www.gsmarena.com/samsung_galaxy_j7_pro-8561.php) - Exynos 7870 - 3GB/32GB - Running Stock OneUI 1 (Android 9))
   
