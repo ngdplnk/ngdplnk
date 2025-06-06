@@ -6,7 +6,7 @@
 
 - ♂️ he/him
 
-- 💻 Software Civil Engineer student from Chile 🇨🇱
+- 💻 Civil Engineering - Computer Science student from Chile 🇨🇱
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ngdplnk&color=7eff8d&style=flat)
 
