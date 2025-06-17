@@ -17,7 +17,7 @@
 
 ### My Devices:
 
-- 📱 **Main:** Xiaomi 14T ([degas](https://www.gsmarena.com/xiaomi_14t-13329.php) - MediaTek Dimensity 8300 Ultra - 12GB/512GB - Running Stock Xiaomi HyperOS 2.0.103.0 (Android 15))
+- 📱 **Main:** Xiaomi 14T ([degas](https://www.gsmarena.com/xiaomi_14t-13329.php) - MediaTek Dimensity 8300 Ultra - 12GB/512GB - Running Stock Xiaomi HyperOS 2.0.103.0.VNEMIXM (Android 15))
 
 - **Secondary:**
 
