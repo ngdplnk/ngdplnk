@@ -2,7 +2,7 @@
 
 ### About me:
 
-- 📆 20.64 y.o.
+- 📆 20.66 y.o.
 
 - ♂️ he/him
 
@@ -17,7 +17,7 @@
 
 ### My Devices:
 
-- 📱 **Main:** Xiaomi 14T ([degas](https://www.gsmarena.com/xiaomi_14t-13329.php) - MediaTek Dimensity 8300 Ultra - 12GB/512GB - Running Rooted Stock Xiaomi HyperOS 2.0.203.0.VNEMIXM (Android 15))
+- 📱 **Main:** Xiaomi 14T ([degas](https://www.gsmarena.com/xiaomi_14t-13329.php) - MediaTek Dimensity 8300 Ultra - 12GB/512GB - Running Rooted Taiwanese HyperOS 2.0.203.0.VNETWXM (Android 15))
 
 - **Secondary:**
 
@@ -25,9 +25,9 @@
 
   * 📱 Samsung Galaxy J7 Pro [Dead Screen] ([j7y17lte](https://www.gsmarena.com/samsung_galaxy_j7_pro-8561.php) - Exynos 7870 - 3GB/32GB - Running Stock OneUI 1 (Android 9))
   
-- 💻 **Laptop:** [Aspire A114-32 V1.14I2](https://browser.geekbench.com/v6/cpu/10829541) (Intel Pentium Silver N5000 - 4GB[DDR4]/120GB[eMMC] - Running Arch Linux x86_64 (Kernel 6.16.5-arch1-1) (GNOME 48.4 Wayland))
+- 💻 **Laptop:** [Aspire A114-32 V1.14I2](https://browser.geekbench.com/v6/cpu/10829541) (Intel Pentium Silver N5000 - 4GB[DDR4]/120GB[eMMC] - Running Arch Linux x86_64 (Kernel 6.16.7-arch1-1) (GNOME 48.4 Wayland))
 
-- ⌨️ **Desktop:** ASUSTeK TUF B360M-E GAMING - Intel i5-8400 - 16GB[DDR4]/512GB[M.2] + 240GB[SSD] + 1TB[HDD] - Running Arch Linux x86_64 (Kernel 6.15.9-arch1-1) (GNOME 48.4 Wayland) [GEEKBENCH 6](https://browser.geekbench.com/v6/cpu/11934395)
+- ⌨️ **Desktop:** ASUSTeK TUF B360M-E GAMING - Intel i5-8400 - 16GB[DDR4]/512GB[M.2] + 240GB[SSD] + 1TB[HDD] - Running Arch Linux x86_64 (Kernel 6.16.7-arch1-1) (GNOME 48.4 Wayland) [GEEKBENCH 6](https://browser.geekbench.com/v6/cpu/11934395)
 
 ### 📫 How to reach me:
 You can reach me quickly via [Telegram](https://t.me/ngdplnk).
