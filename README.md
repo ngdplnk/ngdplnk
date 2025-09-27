@@ -9,7 +9,7 @@
     Passionate about mobile technology, custom ROMs, and building software solutions.
   </p>
 
-  <img src="https://img.shields.io/badge/Age-21-blue?style=for-the-badge" alt="My Age">
+  <img src="https://img.shields.io/badge/Age-20.69-blue?style=for-the-badge" alt="My Age">
   <img src="https://img.shields.io/badge/Pronouns-he/him-blue?style=for-the-badge" alt="My Pronouns">
 
 </div>
@@ -39,8 +39,7 @@
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ngdplnk&color=blue&style=flat-square" alt="Profile Views"/>
-  
+  <img src="https://komarev.com/ghpvc/?username=ngdplnk&style=flat-square&color=blue" alt="Profile Views"/>
   <br/>
   
   <img src="https://github-readme-stats.vercel.app/api?username=ngdplnk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="ngdplnk's GitHub stats" />
