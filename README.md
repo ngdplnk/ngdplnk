@@ -9,7 +9,7 @@
     Passionate about mobile technology, custom ROMs, and building software solutions.
   </p>
 
-  <img src="https://img.shields.io/badge/Age-20.69-blue?style=for-the-badge" alt="My Age">
+  <img src="https://img.shields.io/badge/Age-20.701-blue?style=for-the-badge" alt="My Age">
   <img src="https://img.shields.io/badge/Pronouns-he/him-blue?style=for-the-badge" alt="My Pronouns">
 
 </div>
@@ -67,7 +67,7 @@
   - 🖥️ **Desktop:** Custom Build
     - *Mobo/CPU:* ASUSTeK TUF B360M-E / Intel i5-8400
     - *RAM/Storage:* 16GB DDR4 / 512GB M.2 + 240GB SSD + 1TB HDD
-    - *OS:* Windows 11 24H2
+    - *OS:* Windows 11 25H2
 
   - 📱 **Secondary/Project Devices:**
     - **Samsung Galaxy A73 5G** (`a73xq`): Snapdragon 778G, running a private Project NERV build (Android 15). *[Serving as my GF's temporal main phone]*
