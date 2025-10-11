@@ -9,7 +9,7 @@
     Passionate about mobile technology, custom ROMs, and building software solutions.
   </p>
 
-  <img src="https://img.shields.io/badge/Age-20.701-blue?style=for-the-badge" alt="My Age">
+  <img src="https://img.shields.io/badge/Age-20.722-blue?style=for-the-badge" alt="My Age">
   <img src="https://img.shields.io/badge/Pronouns-he/him-blue?style=for-the-badge" alt="My Pronouns">
 
 </div>
@@ -59,15 +59,15 @@
     - *RAM/Storage:* 12GB / 512GB
     - *OS:* Rooted Taiwanese HyperOS 2.0 (Android 15)
   
-  - 💻 **Laptop:** Aspire A114-32
-    - *CPU:* Intel Pentium Silver N5000
-    - *RAM/Storage:* 4GB DDR4 / 120GB eMMC
-    - *OS:* Arch Linux (GNOME 49 on Wayland)
+  - 💻 **Laptop:** Lenovo IdeaPad Slim 3 15IRH10 [83K1006JCL]
+    - *CPU:* Intel I5-13420H
+    - *RAM/Storage:* 8GB DDR5 / 512GB NVMe
+    - *OS:* Windows 11 25H2
   
   - 🖥️ **Desktop:** Custom Build
     - *Mobo/CPU:* ASUSTeK TUF B360M-E / Intel i5-8400
     - *RAM/Storage:* 16GB DDR4 / 512GB M.2 + 240GB SSD + 1TB HDD
-    - *OS:* Windows 11 25H2
+    - *OS:* Arch Linux (GNOME 49 on Wayland)
 
   - 📱 **Secondary/Project Devices:**
     - **Samsung Galaxy A73 5G** (`a73xq`): Snapdragon 778G, running a private Project NERV build (Android 15). *[Serving as my GF's temporal main phone]*
